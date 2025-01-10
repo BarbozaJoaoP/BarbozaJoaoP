@@ -12,5 +12,5 @@
   </div>
 </section>
 
-<p>Check my Linkedin: https://www.linkedin.com/in/joão-pedro-barboza-456504204/</p>
+<br><br><p>Check my Linkedin: https://www.linkedin.com/in/joão-pedro-barboza-456504204/</p>
 
