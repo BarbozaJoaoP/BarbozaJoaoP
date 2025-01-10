@@ -4,10 +4,6 @@
     <p>🎓 Graduating Analysis and development of sistems.</p>
 </section>
 
-<section id=gitStats>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbozaJoaoP&show_icons=true&theme=radical)
-</section>
-
 <section id=languages>
   <div style="display: inline_block"><br>
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
