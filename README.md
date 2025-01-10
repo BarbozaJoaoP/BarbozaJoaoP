@@ -5,7 +5,7 @@
 </section>
 
 <section id=gitStats>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbozaJoaoP&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BarbozaJoaoP&show_icons=true&theme=radical)
 </section>
 
 <section id=languages>
